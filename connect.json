@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "GitHub",
+    "icon": "fab fa-github",
+    "url": "https://github.com/buraksocial"
+  },
+  {
+    "name": "Medium",
+    "icon": "fab fa-medium",
+    "url": "https://medium.com/@bur4ksocial"
+  },
+  {
+    "name": "LinkedIn",
+    "icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/in/burak-do%C4%9Fan-7b353a26b/"
+  },
+  {
+    "name": "Email",
+    "icon": "fas fa-envelope",
+    "url": "mailto:burak@developer.org.tr"
+  }
+]
