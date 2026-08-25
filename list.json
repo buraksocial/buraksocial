@@ -7,7 +7,7 @@
         "year": "2023",
         "duration": "5 months",
         "duration_tr": "5 ay",
-        "technologies": ["TypeScript", "Node.js"]
+        "technologies": ["Python"]
       },
       {
         "title": "Phoenix Framework",
@@ -17,7 +17,7 @@
         "year": "2023",
         "duration": "3 months",
         "duration_tr": "3 ay",
-        "technologies": ["TypeScript", "Framework"]
+        "technologies": ["PHP"]
       },
     {
         "image": "https://i.hizliresim.com/lcmppwc.png",
