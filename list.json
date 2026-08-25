@@ -1,4 +1,24 @@
 [
+      {
+        "title": "IgnisDB",
+        "text": "Advanced database solution...",
+        "text_tr": "Gelişmiş veritabanı çözümü...",
+        "githubRepo": "buraksocial/IgnisDB",
+        "year": "2023",
+        "duration": "5 months",
+        "duration_tr": "5 ay",
+        "technologies": ["TypeScript", "Node.js"]
+      },
+      {
+        "title": "Phoenix Framework",
+        "text": "Modern backend framework...",
+        "text_tr": "Modern backend framework...",
+        "githubRepo": "buraksocial/phoenix-framework",
+        "year": "2023",
+        "duration": "3 months",
+        "duration_tr": "3 ay",
+        "technologies": ["TypeScript", "Framework"]
+      },
     {
         "image": "https://i.hizliresim.com/lcmppwc.png",
         "logo": "https://i.hizliresim.com/2waupap.png",
