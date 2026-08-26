@@ -16,6 +16,6 @@
 <a href="https://getbootstrap.com/" target"blank_"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple"></a>
 <br>
 <br>
-<a href="https://burakdogan.vercel.app">
-  <img src="https://burakdogan.vercel.app/api/v5/svg-profile" alt="Profil Kartım" />
+<a href="https://developer.org.tr">
+  <img src="https://developer.org.tr/api/v5/svg-profile" alt="Profil Kartım" />
 </a>
